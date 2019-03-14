@@ -18,8 +18,6 @@ Bunicuta va putea adauga o forma de copt (Comanda ADD) caz in care:
 - Se citeste apoi inaltimea formei de copt (h)
 - Inainte de a trece la urmatoarea comanda se afiseaza cantitatile de gem si frisca necesare pentru
 aceasta.
-Bunicuta va putea elimina a x-a forma de copt (Comanda REMOVE x) existenta in ordinea introducerii
-(numerotarea incepe de la 1).
 Bunicuta va putea afisa caracteristicile tuturor prajiturilor existente (forma bazei, caracteristicile
 bazei si inaltimea) - comanda STOC.
 Bunicuta va putea afisa necesarul curent total al fiecarui ingredient (gem, frisca) (comanda TOTAL).
